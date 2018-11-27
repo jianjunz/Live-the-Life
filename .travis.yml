@@ -12,11 +12,20 @@ install:
 
 script:
   - hexo generate
-  - hexo deploy
+# - hexo deploy
+  
+after_script:
+  - cd ./public
+  - git init
+  - git config user.name "SMartBot"
+  - git config user.email "375584908@qq.com"
+  - git add .
+  - git commit -m "Update Source Codes."
+  - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:gh-pages
 
 branches:
   only:
     - master
 env:
- global:
-   - GH_REF: https://github.com/SMartQi/Live-the-Life.git
+  global:
+    - GH_REF: https://github.com/SMartQi/Live-the-Life.git
