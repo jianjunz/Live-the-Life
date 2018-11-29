@@ -1,0 +1,3 @@
+[submodule "themes/Annie"]
+	path = themes/Annie
+	url = https://github.com/SMartQi/hexo-theme-Annie.git
