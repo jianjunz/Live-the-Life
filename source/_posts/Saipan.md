@@ -1,6 +1,7 @@
 ---
 title: Hello, Saipan
-cover: /img/Saipan.jpg
+date: 2018-11-28 23:21:22
+cover: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Saipan.jpg
 categories: travel
 tags: 
     - Saipan
