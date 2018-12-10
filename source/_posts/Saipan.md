@@ -7,6 +7,8 @@ tags:
     - Saipan
     - 塞班岛
     - 游记
+time: 2016-12-04
+length: 5 days
 ---
 
 ## 我是程序猿之“第-1天越界啦！”
@@ -30,11 +32,21 @@ JJ一直让我去查查哪里吃什么呀，但是我觉得到时候随便走走
 晚上吃的是旅行社帮订的凯悦海鲜自助，大概比自己直接吃便宜些吧。其实话说回来，塞班的海鲜也并没有很多…… 也是要靠轮船运过来呢，所以大概也比较贵吧。不过吃总归能吃得很high，yeah！
 晚上逛街，说起来，每天晚上都是逛街。逛~吃~逛~吃~ 这里的水都要靠买瓶装水，搬一大瓶依云回去喝，哈哈。快到圣诞了，装饰好的圣诞树好美！开始想在圣诞的时候到会下雪的欧洲小镇体验下呢~
 
+![Saipan](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Saipan.jpg)
+
+![Saipan1](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Saipan1.jpg)
+
 ## Day2.军舰岛,Hard Rock
 
 第二天去了军舰岛。去军舰到的路上（海上）海水颜色千变万化，浅蓝深蓝透明像宝石，推荐坐在船顶，吹着海风看着大海听着摇滚，简直不能更美妙~~ 这个小岛真的超级小，溜达一圈也要不了多久。这里可以浮潜，下面是礁石。JJ第一次体验救生衣控制不好平衡，被我嘲笑，结果后面我第一次穿的时候简直是报应啊。在海水里泡着感觉好开心好开心好开心，人家就是喜欢水呀！
 下午回来以后例行睡睡睡，喔，睡前吃饭，前两天中午全是10刀的团餐，中餐，估计算是很low的，可是我竟然觉得莫名的好吃，大概是在太饿。睡到差不多时间起床去吃Hard Rock的牛排龙虾！牛排倒是不太记得了，只记得龙虾好吃，还有夕阳看，嘿嘿也算夕阳晚餐呢。这家还送了20刀的DFS购物券，以及两个小酒杯^_^ 购物券买巧克力分分钟就花掉啦，感觉巧克力瞬间变得超值。
 说到巧克力，不记得哪天，还买了zippo、其他礼品巧克力、萌萌哒勺子、以及一眼看上的冰箱贴^_^
+
+![Saipan2](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Saipan2.jpg)
+
+![Saipan3](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Saipan3.jpg)
+
+![Saipan4](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Saipan4.jpg)
 
 ## Day3.自驾游,Tony Roma's
 
@@ -46,6 +58,18 @@ JJ一直让我去查查哪里吃什么呀，但是我觉得到时候随便走走
 太阳下山前开到了一个小教堂，据说好多人在这里拍婚纱。JJ特地拍了空白的，说以后直接P上去就好。。。误打误撞发现这家的沙滩叫日落沙滩，特别适合看日落嘿嘿。在海里走走，玩玩水，等着看日落，除了地上好多蚂蚁不能坐以外，一切都好惬意好美~ 日落好快，从大半个鸭蛋黄，到半个，到小半个，简直是肉眼可见的速度在下降呢。相比日出，是另一种震撼。
 晚上吃了点评到的一家餐馆，Amigo's Pizza，意外地味道不错而且便宜，还不知道为啥有了10%的折扣。虽然后来给了15%的小费，不过加一起大概就$30+，算是吃的物美价廉啦！
 
+![Saipan5](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Saipan5.jpg)
+
+![Saipan6](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Saipan6.jpg)
+
+![Saipan7](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Saipan7.jpg)
+
+![Saipan8](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Saipan8.jpg)
+
+![Saipan9](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Saipan9.jpg)
+
+![Saipan10](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Saipan10.jpg)
+
 ## Day4.蓝洞浮潜,Bubba Gump
 
 蓝洞浮潜怕怕的。再也不要从1.5米的地方自由落体跳下水了！！！
@@ -54,6 +78,10 @@ JJ一直让我去查查哪里吃什么呀，但是我觉得到时候随便走走
 回去以后就去海边躺椅上吹吹海风睡觉觉啦。唔，睡觉之前，我自己跑去买了一杯长岛冰茶，仔细看他帮我加了冰块、四种酒、柠檬片、以及可乐倒满，刷了信用卡还给了小费哈哈，这可是我第一次给小费，$1.5，颇有成就感！喝完晕晕乎乎，睡得更开心啦。然而…… 醒来以后涂好防晒霜下海玩耍，没多久身上皮肤就开始又疼又痒，匆匆上岸，在躺椅上静静地等待日落。哎，到现在也不知道是单纯酒精过敏，还是酒精+防晒霜+海水导致，打算什么时候再买一杯长岛冰茶试试，嗯！
 晚上去吃了Bubba Gump。没想到一念之间竟然差点错过了这么棒的餐厅！专门做虾的餐厅，又是阿甘正传主题餐厅，正对胃口呀。店内装饰、气氛都超级好，还有翻牌子叫服务员。后来没吃完剩下了薯条，叫服务员帮忙拿餐盒打包。JJ罢工，叫我去沟通。连比划带短语，总算那个姐姐说“Oh, you wanna bags, right?” ╮(╯▽╰)╭
 剩下的薯条就是第二天的早饭啦！
+
+![Saipan11](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Saipan11.jpg)
+
+![Saipan12](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Saipan12.jpg)
 
 ## 我是程序猿之“2^32越界啦”
 
