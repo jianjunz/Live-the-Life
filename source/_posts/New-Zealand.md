@@ -32,7 +32,7 @@ This was the most exciting day in the whole trip! We got to go to the FOX GLACIE
 
 ## Day6. Fox - Wanaka
 
-The Minnehaha Walk in the morning was much better than it in the evening. The air was really fresh and sweet. How fortunately for the locals to have this beautiful small forest not far away from their town. The route to Wanaka was full of beautiful sights. We passed by a pile of white stones with doodles on them. I was really curious why there were so many people travelling with a mark pen, although some of the marks seemed to be written with lipsticks. Those stones were laying on a chocolate colored beach by the sea. There was a magic place with a watchtower, a sandy beach, a small jungle, a lake as well as the sea. All of them were gathering round in a small piece of land. We never got bored with all the lakes along the road, especially one with green water and a small fall hanging on it. 
+The Minnehaha Walk in the morning was much better than it in the evening. The air was really fresh and sweet. How fortunately it is for the locals to have this beautiful small forest not far away from their town. The route to Wanaka was full of beautiful sights. We passed by a pile of white stones with doodles on them. I was really curious why there were so many people travelling with a mark pen, although some of the marks seemed to be written with lipsticks. Those stones were lying on a chocolate colored beach by the sea. There was a magic place with a watchtower, a sandy beach, a small jungle, a lake as well as the sea. All of them were gathering round in a small piece of land. We never got bored with all the lakes along the road, especially one with green water and a small fall hanging on it. 
 
 ## Day7. Wanaka - Queenstown
 
