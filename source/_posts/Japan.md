@@ -19,34 +19,34 @@ length: 6 days
 ## Day2. 京都和服一日游
 早上一大早起来去了预约的梦馆租和服。JJ喜欢我穿和服，或者是喜欢和服遮住了我的小腿T_T 里三层外三层，简直把小肚肚全都绷紧，让我产生了深深的怀疑，这还怎么吃饭？嗯，后来才意识到，吃饭还早，第一个要考虑的是，这还怎么走路。。。穿着木屐（或者是塑料屐？）踢踢踏踏地走了一天真是酸爽。前面清水寺、二年坂、三年坂、衹园、八坂神社都是走路的，遗憾的是错过了这里的明信片，不过吃到了抹茶冰淇淋，还尝了尝一点酒味都没有就像生姜味浆糊的日本甜酒…… 后面坐车去了伏见稻荷大社和千本鸟居，感觉想到了一种快速收钱的方法呢！如果我学学人家千本鸟居，买块空地，谁给我钱就可以立根柱子，不造能不能发家致富呢？^_^ 晚上吃了串八烤串，等了一会儿，不过味道不错呀！
 
-![Saipan](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan1.jpg)
+![Japan1](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan1.jpg)
 
-![Saipan](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan2.jpg)
+![Japan2](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan2.jpg)
 
-![Saipan](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan3.jpg)
+![Japan3](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan3.jpg)
 
 ## Day3. 京都-大阪
 昨天太high，超额去了要去的地方，今天早上就可以睡了个懒觉，之后去大阪。早上走了一圈，愣是10点前没找到早饭吃，匆匆便利店随便吃了些，就踏上去了大阪的不知道应该叫火车还是地铁的车车。大阪住在了蒙特利格拉斯米尔酒店，看起来还是挺高大上（贵）的~ 因为去太早，就先在酒店寄存了行李，之后去吃一兰拉面。像吧台一样坐一长条从后面上菜好有趣，以及两个人中间有隔板还可以打开好有趣！以及……面还挺好吃的^_^ 排队进一兰拉面的时候，被章鱼小丸子烫的泪流满面。下午去了通天阁。可是好像没觉得通天阁很厉害啊，或者是因为心心念念晚上的螃蟹宴？螃蟹宴好好吃！现在的我就属于那种“小时候不好好读书，看着美味只会说哎呀好好吃”的青年。。。可是的确肉质鲜美又大块，啊啊啊！以及，高大上（贵）。酒店大概比较中心吧，附近有心斋桥道顿堀，还是挺繁华的，或者叫拥挤= =以及，在JJ的强烈反对以及没时间的现状下，没有去泡裸体温泉哈哈哈。愈发想念家里的浴缸。
 
-![Saipan](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan4.jpg)
+![Japan4](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan4.jpg)
 
 ## Day4. 大阪一日游
 Um... 好像也是奔波忙碌的一天呢。早上去了天宝山购物中心，发现了乐高探索乐园！然而！！没有小朋友一起不能进！！！只好怨念地抱走了大号乐高~ 抱着去了天 宝山大摩天轮，一览大阪靠近海湾的一边。中午吃了鹤桥风月大阪烧，感觉还不错，会有厨师在面前把东西做熟。下午去逛天守阁，好在不是另一个橙黄色的寺庙= = 可是总觉得不如我大故宫雄伟哎！不过，在天守阁抓到了好多好多好多小精灵（pokemon go!）。印象更深刻的是梅田蓝天大厦，路人转粉啊。一开始总觉得不就是夜景嘛，有啥好看的。结果感觉简直漂亮得不像样啊！整个城市顶端blingbling地闪着红灯，远处的关西机场还能若隐若现看见同样blingbling的飞机着陆，感觉可以在这里坐一整夜，顿时萌生了回去我也要去东方明珠看夜景的万里豪情。同样，小学没有努力读书，都想不出诗句来描述这么壮观的景色呢。我期待，在上海我能觉得更漂亮~ 下来之后，冒着刺骨的寒风，去做了hey five摩天轮。没错，一天坐了两遍摩天轮。相比之下，这个摩天轮就矮好多了~ 晚上去买了要买的吹风机，目前看来，吹起来还是很舒服哒！可惜也是目前看来，没有去找找哪里有卖Lush。。。
 
-![Saipan](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan5.jpg)
+![Japan5](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan5.jpg)
 
-![Saipan](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan6.jpg)
+![Japan6](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan6.jpg)
 
-![Saipan](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan.jpg)
+![Japan](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan.jpg)
 
 ## Day5. 奈良看小鹿
 买了斑鸠一日券去奈良，买的时候体会到了半吊子英语沟通的难度T+T然后重点是，奈良怎么会有辣！么！多！小鹿！可是不太敢碰…… 小伙伴用鹿饼干喂得很high，不过事实证明，手里拿了pocky也会被小鹿前后夹击的呢~ 在春日神社看了会儿看不懂的某种表演，感觉有点无聊。午饭的时候终于买好了萌萌哒小鹿夹子冰箱贴和明信片，据说要去全家买邮票，然而全家小哥艰难地用手机翻译软件告诉我，国际邮票要去邮局买= = 又是冷冷的一天，恰好奈良有换线经过城区也经过小鹿随便跑的奈良公园，坐了一圈暖暖身子，还赶上了怪阿姨围观小学生放学嘿嘿。晚上找不到猪排饭，就又去吃了鸟贵族烤串，第一次没有会日语的小伙伴带，成功自助点单！^_^ 还是爱烤串~
 
-![Saipan](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan7.jpg)
+![Japan7](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan7.jpg)
 
-![Saipan](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan8.jpg)
+![Japan8](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan8.jpg)
 
-![Saipan](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan9.jpg)
+![Japan9](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan9.jpg)
 
 ## Day6. 大阪-上海
 最后一天机场买带回来吃的~ 怨念的是，要买来自己吃的布丁因为含水量太高，不能带进去…… 不过带回去给大家吃的抹茶饼大受欢迎呢。办登机牌的时候要给归国报告书盖章。回来的飞机上某种凉面也很好吃，还打包回来了里面的酱油= =后面就是销签啦，一切顺利！^_^
