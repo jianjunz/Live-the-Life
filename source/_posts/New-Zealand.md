@@ -1,7 +1,7 @@
 ---
 title: Travel in New Zealand, and in Sydney as a bonus
 date: 2018-12-04 21:11:31
-cover: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/NZ.jpg
+img: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/NZ.jpg
 categories: travel
 tags: 
     - New Zealand

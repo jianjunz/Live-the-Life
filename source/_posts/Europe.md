@@ -1,12 +1,12 @@
 ---
 title: 非~常~难做计划的欧洲游
 date: 2018-05-22 22:17:08
-cover: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Europe.jpg
+img: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Europe.jpg
 categories: travel
 tags: 
+    - 游记
     - Europe
     - 欧洲
-    - 游记
 time: 2018-04-21
 length: 17 days
 ---

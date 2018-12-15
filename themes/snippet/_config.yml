@@ -8,15 +8,6 @@ menu:
 - page: home
   url: /
   icon:
-- page: 前端
-  url: /categories/前端/
-  icon:
-- page: 后端
-  url: /categories/后端/
-  icon:
-- page: 工具
-  url: /categories/工具/
-  icon:
 - page: 时间轴
   url: /archives/
   icon:
@@ -29,32 +20,29 @@ rss: /atom.xml
 
 ## Carousel
 carousel:
-  img: './img/head-img.jpg'
-  url: 'javascript:'
+  img: 
+  url: 
 
 # 各个小工具的设置
 
 ## widgets
 widgets:
-  - search
-  - notification
-  - social
   - category
-  - archive
   - tagcloud
-  - friends
+  - archive
+  - social
 
 
 ## 搜索
 jsonContent:
   searchLocal: true
-  searchGoogle: false
+  searchGoogle: true
   posts:
     title: true
     text: true
     content: true
-    categories: false
-    tags: false
+    categories: true
+    tags: true
 
 ## 网站公告设置
 notification: |-
@@ -68,22 +56,7 @@ notification: |-
 social:
  - name: Github
    icon: git
-   href: //github.com/shenliyang
- - name: 邮箱
-   icon: envelope-o
-   href: mailto:snippet@91h5.cc
- - name: 联系QQ
-   icon: qq
-   href: /
- - name: 微信
-   icon: weixin
-   href: /
- - name: QQ群
-   icon: users
-   href: /
- - name: RSS
-   icon: feed
-   href: /atom.xml
+   href: //github.com/SMartQi
 
 ## 文章分类设置
 cate_config:
@@ -99,7 +72,7 @@ arch_config:
 
 ## 标签云设置
 tagcloud:
-  tag3d: false
+  tag3d: true
   textColour: '#444'
   outlineMethod: 'block'
   outlineColour: '#FFDAB9'
@@ -117,11 +90,11 @@ links:
 # 主题自定义个性化配置
 
 ## 网站宣传语
-branding:
+branding:  "Live the Life"
 
 ## 设置banner背景图片
 banner:
-    img: http://snippet.shenliyang.com/img/banner.jpg
+    img: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/header.jpg
 
 ## 首页列表底部面板
 homePanel: true
@@ -155,7 +128,7 @@ declaration:
   enable: true
   title: '转载声明'
   tip: |-
-      商业转载请联系作者获得授权,非商业转载请注明出处 © <a href="" target="_blank">Snippet</a>
+      转载请联系作者获得授权
 
 ## 文章打赏
 reward:
@@ -177,12 +150,12 @@ gitment:
 ### 来必力
 livere:
   enable: false
-  livere_uid: MTAyMC8zMzA1MS85NjEz
+  livere_uid: 
 
 ### 友言评论(服务不稳定)
 uyan:
   enable: false
-  uyan_id: 1966422
+  uyan_id: 
 
 ### Disqus评论
 disqus:
@@ -198,14 +171,14 @@ changyan:
 
 ## Valine评论
 valine:
-   enable: true
-   appId: xOKV9J4UeQAtVkvnJC7Kq2Jn-gzGzoHsz
-   appKey: erIpQac4azoCmgfBB7Dl9maa
-   placeholder: 说点什么吧
+   enable: false
+   appId: 
+   appKey: 
+   placeholder: 
    notify: false
    verify: false
-   avatar: mm
-   meta: nick,mail
+   avatar: 
+   meta: 
    pageSize: 10
 
 ## 网站访客统计
@@ -216,7 +189,7 @@ visit_counter:
 ## 网站访问统计分析
 
 ### 网盟CNZZ统计
-cnzz_analytics: 1263868967
+cnzz_analytics: 
 
 ### 百度统计
 baidu_analytics:

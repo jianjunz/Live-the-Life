@@ -1,7 +1,7 @@
 ---
 title: 欣赏就好，何必无意义地去争论呢？——日本大阪京都奈良
 date: 2017-04-02 23:46:55
-cover: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan.jpg
+img: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan.jpg
 categories: travel
 tags: 
     - Japan
