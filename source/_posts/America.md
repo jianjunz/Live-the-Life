@@ -2,11 +2,10 @@
 title: 估计要拖半个月才写得完的美西自驾游
 date: 2017-12-28 22:34:49
 img: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/America.jpg
-categories: travel
+categories: 游记
 tags: 
-    - America
-    - 美国
-    - 游记
+ - 美国
+ - 在路上
 time: 2017-09-30
 length: 15 days
 ---

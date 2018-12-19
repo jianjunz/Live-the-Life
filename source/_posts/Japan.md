@@ -2,11 +2,10 @@
 title: 欣赏就好，何必无意义地去争论呢？——日本大阪京都奈良
 date: 2017-04-02 23:46:55
 img: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Japan.jpg
-categories: travel
+categories: 游记
 tags: 
-    - Japan
-    - 日本
-    - 游记
+ - 日本
+ - 在路上
 time: 2017-03-11
 length: 6 days
 ---

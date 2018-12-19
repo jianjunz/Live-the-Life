@@ -2,12 +2,10 @@
 title: Travel in New Zealand, and in Sydney as a bonus
 date: 2018-12-04 21:11:31
 img: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/NZ.jpg
-categories: travel
+categories: 游记
 tags: 
-    - New Zealand
-    - 新西兰
-    - 悉尼
-    - 游记
+ - 新西兰
+ - 在路上
 time: 2018-09-21
 length: 16 days
 ---

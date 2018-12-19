@@ -2,11 +2,10 @@
 title: Hello, Saipan
 date: 2016-12-19 13:32:42
 img: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/Saipan.jpg
-categories: travel
+categories: 游记
 tags: 
-    - Saipan
-    - 塞班岛
-    - 游记
+ - 塞班岛
+ - 在路上
 time: 2016-12-04
 length: 5 days
 ---

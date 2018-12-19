@@ -2,10 +2,8 @@
 title: 年少不知爱，知爱不少年
 date: 2018-12-05 20:50:00
 img: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/avatar.jpg
-categories: momory
-tags: 
-    - momory
-    - 心情
+categories: 心情
+tags: 回忆
 ---
 
 **少年**时期的爱情，大抵源于脑回路刚开始萌发出沟沟坎坎，却遇上了日复一日的单调无趣。多出来无处安放的褶皱便在角落幻化出遍地玫瑰与荆棘，轰轰烈烈地感动自己。
