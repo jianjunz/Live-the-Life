@@ -1,7 +1,7 @@
 ---
 title: 年少不知爱，知爱不少年
 date: 2018-12-05 20:50:00
-cover: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/avatar.jpg
+img: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/avatar.jpg
 categories: momory
 tags: 
     - momory
