@@ -1,6 +1,7 @@
 ---
 title: 那些年看过的电影
 date: 2018-12-20 00:01:02
+img: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/movie.jpg
 categories: 电影
 tags: 在路上
 ---
