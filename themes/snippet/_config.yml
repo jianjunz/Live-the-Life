@@ -5,12 +5,10 @@
 
 ## menu
 menu:
-- page: home
-  url: /
-  icon:
-- page: 时间轴
-  url: /archives/
-  icon:
+  - page: home
+    url: /Live-the-Life/
+    icon: 
+
 
 ## favicon
 favicon: /favicon.ico
