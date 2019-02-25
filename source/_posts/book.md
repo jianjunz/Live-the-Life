@@ -1,9 +1,9 @@
 ---
 title: 那些年读过的书
 date: 2018-12-21 00:01:02
+img: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/book.jpg
 categories: 书
 tags: 在路上
-
 ---
 
 
@@ -172,11 +172,11 @@ Priest文风鲜明，近几年作品比早期作品进步巨大，从泯然众�
 
 ## 苗疆三部曲
 
-## **[苗疆蛊事](https://book.douban.com/subject/25768277/)**
+### **[苗疆蛊事](https://book.douban.com/subject/25768277/)**
 
 真的是长，不过逻辑还算严谨，整本下来没什么硬伤。换句话说，足够爽！属于快意江湖性质文，对于多数读者来说，学习意义不大，纯娱乐。
 
-## **[苗疆道事](https://book.douban.com/subject/30264101/)**
+### **[苗疆道事](https://book.douban.com/subject/30264101/)**
 
 如果没有苗疆蛊事2来毁它的话，能给道士和蛊事差不多略低的分数。只觉得大师兄的前期发展过于迅速了些，毕竟没有金蚕蛊，对吧。
 
