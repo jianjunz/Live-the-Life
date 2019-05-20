@@ -200,6 +200,14 @@ Priest文风鲜明，近几年作品比早期作品进步巨大，从泯然众�
 
 ### **[明朝那些事儿](https://book.douban.com/subject/7163250/)**
 
+### **[盗墓笔记](https://book.douban.com/subject/6953273/)**
+
+### **[鬼吹灯](https://book.douban.com/subject/2988181/)**
+
+### **[设计师](https://book.douban.com/subject/27174246/)**
+
+沉迷Priest后难得入坑的新书，总体评价不错。两点疑惑：1俩人关系开始得略莫名其妙 2结尾略突兀戛然而止；两点感慨：1俩人在一块，总要都有些闪光点，这样才能互相欣赏，而不会生出嫌弃之心 2保重身体。
+
 ### **[余罪](https://book.douban.com/subject/26613724/)**
 
 现在想来印象已经不深了，但当时读起来时的确感觉酣畅淋漓。
@@ -207,10 +215,6 @@ Priest文风鲜明，近几年作品比早期作品进步巨大，从泯然众�
 ### **[欢乐颂](https://book.douban.com/subject/26757148/)**
 
 做人嘛，要拎得清。
-
-### **[盗墓笔记](https://book.douban.com/subject/6953273/)**
-
-### **[鬼吹灯](https://book.douban.com/subject/2988181/)**
 
 ### **[旋风少女](https://book.douban.com/subject/3087896/)**
 
