@@ -79,5 +79,5 @@ theme: snippet
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:SMartQi/Live-the-Life.git
+  repo: git@github.com:Simeng07/Live-the-Life.git
   branch: gh-pages
