@@ -1,2 +1,2 @@
 # [Live the Life](https://simeng07.github.io/Live-the-Life/)
-![build](https://github.com/simeng07/live-the-life/actions/workflows/ci.yml/badge.svg)
+![build](https://github.com/Simeng07/Live-the-Life/actions/workflows/CI.yml/badge.svg)
