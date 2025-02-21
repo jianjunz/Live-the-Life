@@ -1,7 +1,7 @@
 ---
 title: New Zealand, Again!
 date: 2023-10-09 21:11:31
-img: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/NZ.jpg
+img: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/nz2309/2-2.jpg
 categories: 游记
 tags:
  - New Zealand
