@@ -1,7 +1,7 @@
 ---
 title: Scotland, all the greens and blues
 date: 2024-09-05 22:38:49
-img: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/ca1912/10.jpg
+img: https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/scotland/0.jpg
 categories: 游记
 tags:
  - 苏格兰
@@ -27,6 +27,7 @@ D3: One amazing thing we found immediately as we stepped out the hotel: the ‘l
 
 ![5](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/scotland/5.jpg)
 ![6](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/scotland/6.jpg)
+![0](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/scotland/0.jpg)
 
 D4: We went to a ‘cave’ in the middle of nowhere. Why do I quote ‘cave’? Because we didn’t see it at all. People must get very well prepared with all kinds of equipment and check the tidy schedule for the entrance of the cave – we didn’t know that then. And the path was not easy to find. We got lost for several times. But although we didn’t see the cave, we saw another scene of two facing cliffs. I don’t know if there was a terminology for it. Along the coast, there was a pink beach I loved very much. One reason is the beautiful and very flat surface of the beach. Another is that to get the beach from the viewpoint, we had to (or should I say got to?) climbed down from a bunch of stones. I loved the climbing! We finally got to Ullapool at nearly 9 pm. It seemed we would have a nice breakfast tomorrow in the hotel. Hooray!
 
