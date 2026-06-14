@@ -22,14 +22,14 @@ One thing I have to say is the hotels in NYC were so expensive.
 
 ## Day 2. JFK - Ithaca
 
-We rented a Jeep Ranger in 2019 and it was good, so we rented a Jeep Ranger again this time. Surprisingly, this was a 4XE hybrid vehicle. However, it didn't support lane change assistance. Driving in NYC was hard, especially for people who hasn't been in NYC before. There were so many cars, complicated roads, also traffic jam on I87. When we arrived at Taughannock Falls State Park, it was quite late. And it started to rain when we were walking to the fall. We had to return because we didn't take the umbrella. Then we drove to another viewpoint, and looked at the fall from a higher and further position.
+We rented a Jeep Ranger in 2019 and it was good, so we rented a Jeep Ranger again this time. Surprisingly, this was a 4XE hybrid vehicle. However, it didn't support lane change assistance. Driving in NYC was hard, especially for people who haven't been in NYC before. There were so many cars, complicated roads, also traffic jam on I87. When we arrived at Taughannock Falls State Park, it was quite late. And it started to rain when we were walking to the fall. We had to return because we didn't take the umbrella. Then we drove to another viewpoint, and looked at the fall from a higher and further position.
 
 ![2](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/na2025/2-1.jpg)
 ![3](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/na2025/2-2.jpg)
 
 ## Day 3. Ithaca - Buffalo
 
-Not far away from Ithaca, we walked the trails in Buttermilk Falls State Park. Although we didn't walk to the end of the trail, the beautiful scenery was unforgettable. It was not majestic like the Niagara Falls, but it was quiet and colorful. It was especially beautiful when the sun shined on the lake. Then we went to the Watkins Glen State Park. While walking along the stream, we saw a lot of waterfalls and cliffs. We also walked behind some of the waterfalls. After visiting two state parks, we stopped by the Corning Museum. Its glass products are very famous. We bought its tableware many years ago and they're still in use. We then went to Genesee Falls on our way to Buffalo. Lucky we saw a train on the bridge, but didn't have the time to take a picture.
+Not far away from Ithaca, we walked the trails in Buttermilk Falls State Park. Although we didn't walk to the end of the trail, the beautiful scenery was unforgettable. It was not majestic like the Niagara Falls, but it was quiet and colorful. It was especially beautiful when the sun shined on the lake. Then we went to the Watkins Glen State Park. While walking along the stream, we saw a lot of waterfalls and cliffs. We also walked behind some of the waterfalls. After visiting two state parks, we stopped by the Corning Museum. Its glass products are very famous. We bought its tableware many years ago and they're still in use. We then went to Genesee Falls on our way to Buffalo. Luckily we saw a train on the bridge, but didn't have the time to take a picture.
 
 ![4](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/na2025/3-1.jpg)
 ![5](https://raw.githubusercontent.com/SMartQi/Live-the-Life/master/source/gallery/na2025/3-2.jpg)
